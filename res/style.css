@@ -2651,7 +2651,7 @@ a.box:active {
 }
 
 .content {
-	margin-left: 5px;
+	margin-left: 0.5rem;
 }
 
 .input,
